@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bittok-f
+- 👋 Hi, I’m @bittok-f, Creative Frontend Developer and Registered Nurse
 - 👀 I’m interested in Web development (HTML, CSS, JS, REACT JS, REDUX, GIT)
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on any Open project available
